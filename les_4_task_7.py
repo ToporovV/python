@@ -1,5 +1,4 @@
 from math import factorial
-from itertools import count
 
 numbers = input('Введите диапазон чисел через пробел: ').split()
 numbers = [int(i) for i in numbers]
