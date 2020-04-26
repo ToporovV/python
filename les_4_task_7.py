@@ -14,6 +14,4 @@ def fibo_gen():
 
 for i in fibo_gen():
     print(i)
-        #n += 1
-    #else:
-        #break
+
