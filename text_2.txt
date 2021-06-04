@@ -1,0 +1,3 @@
+Привет всему миру.
+Python рулит.
+London is the capital of great Britain.
